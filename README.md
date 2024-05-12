@@ -6,7 +6,7 @@ Dashboard Visualization:
 Airbnb is an American company that operates an online marketplace for lodging, primarily homestays for vacation rental and tourism activities. With a global presence, Airbnb has become a household name among both guests and hosts. However, what actually distinguishes Airbnb is its tremendous data analytic skills. This data is critical for improving security, making educated business decisions, understanding consumer and host behaviour, and analysing platform performance. It also directs strategic marketing activities and enables the adoption of innovative services. In a data-driven world, Airbnb uses its extensive dataset to continuously improve and innovate, assuring outstanding experiences for all of its users. 
 
 Following are the fields being used:
-ID: Airbnb’s unique identifier for the listing.
+**ID: Airbnb’s unique identifier for the listing.
 Name: Name of the listing.
 Host_id: Airbnb’s unique identifier for the host or user.
 Host_name: Name of the host. Usually just the first name(s).
